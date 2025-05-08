@@ -1,0 +1,5 @@
+admin|123
+user1|password123
+ezra|073
+abdil|1234
+timPikmi|spontan 
